@@ -1,0 +1,18 @@
+{
+  "name": "linear-js-functions",
+  "version": "1.0.1",
+  "description": "a set of js functions in one line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "utile",
+    "functions",
+    "js",
+    "linear"
+  ],
+  "author": "kamoman <kaidi.mohammed1@gmail.com>",
+  "license": "MIT"
+}
